@@ -54,14 +54,14 @@ Rather than a list of buzzwords, here's where each skill actually shows up:
 When I look at a system or a piece of code, the process is the same every time:
 
 ```text
-1. Observe   -> what is this actually doing, end to end
-2. Question  -> where could this break, or be broken
-3. Test      -> prove it, don't assume it
-4. Fix       -> patch the real cause, not the symptom
-5. Document  -> so the next person (or future me) isn't guessing
+1. Observe   -> what is this actually happening end to end
+2. Question  -> where could this break or be broken
+3. Test      -> prove it never assume
+4. Fix       -> patch the real cause
+5. Document  -> so the next person or myself isn't guessing
 ```
 
-That loop is behind every project above, not just something I say I do.
+That loop is applied behind every project above.
 
 <br>
 
@@ -168,12 +168,12 @@ Gmail integration
 ## `> currently`
 
 ```text
+[+] Looking for an entry-level cybersecurity opportunity
 [+] Building cybersecurity projects
 [+] Developing security automation skills
 [+] Practicing threat detection and investigation
 [+] Strengthening Linux and networking skills
 [+] Exploring SOC and Blue Team workflows
-[+] Looking for an entry-level cybersecurity opportunity
 ```
 
 <br>
