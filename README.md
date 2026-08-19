@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=160&section=header&text=whoami&fontColor=00ff41&fontSize=42&fontAlignY=45&desc=CYBERSECURITY%20%2F%2F%20BLUE%20TEAM%20%2F%2F%20SOC&descAlignY=70&descColor=39ff14&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%24+whoami;junior_cybersecurity_professional;%24+status+--check;blue_team+%7C+security_operations+%7C+threat_detection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%24+whoami;junior_cybersecurity_professional;blue_team+%7C+security_ops+%7C+threat_detection" alt="Typing SVG" />
 
 </div>
 
@@ -34,18 +34,34 @@ I'm currently seeking an entry-level cybersecurity opportunity where I can contr
 
 <br>
 
-## `> focus`
+## `> skills_in_practice`
 
-<div align="center">
+Rather than a list of buzzwords, here's where each skill actually shows up:
 
-| Security Operations | Offensive Security | Engineering |
-|---|---|---|
-| Security Monitoring | Vulnerability Assessment | Python |
-| Log Analysis | Web Application Security | Linux |
-| Incident Response | Security Testing | Automation |
-| Threat Detection | Network Reconnaissance | Git |
+| Skill | Applied in |
+|---|---|
+| Log analysis & MITRE ATT&CK mapping | SIEM Log Analyzer |
+| Real-time monitoring & alerting | Security Monitoring Dashboard |
+| Applied cryptography | CyberSafe Encryption Toolkit |
+| ML-based classification & explainability | Phishing Detection System |
+| Python, testing, secure coding | All four projects (18+ tests on the log analyzer, 24+ on the dashboard) |
+| Linux, Git, version control | Daily workflow across every repo |
 
-</div>
+<br>
+
+## `> approach`
+
+When I look at a system or a piece of code, the process is the same every time:
+
+```text
+1. Observe   -> what is this actually doing, end to end
+2. Question  -> where could this break, or be broken
+3. Test      -> prove it, don't assume it
+4. Fix       -> patch the real cause, not the symptom
+5. Document  -> so the next person (or future me) isn't guessing
+```
+
+That loop is behind every project above, not just something I say I do.
 
 <br>
 
@@ -158,19 +174,6 @@ Gmail integration
 [+] Strengthening Linux and networking skills
 [+] Exploring SOC and Blue Team workflows
 [+] Looking for an entry-level cybersecurity opportunity
-```
-
-<br>
-
-## `> security_mindset`
-
-```text
-Observe.
-Investigate.
-Understand.
-Test.
-Document.
-Improve.
 ```
 
 <br>
