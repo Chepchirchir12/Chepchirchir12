@@ -1,155 +1,198 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=120&section=header&text=whoami&fontColor=00ff41&fontSize=42&fontAlignY=65&desc=cybersecurity%20%2F%2F%20building%20in%20public&descAlignY=90&descColor=39ff14&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=120&section=header&text=whoami&fontColor=00ff41&fontSize=42&fontAlignY=65&desc=CYBERSECURITY%20%2F%2F%20BLUE%20TEAM%20%2F%2F%20SOC&descAlignY=90&descColor=39ff14&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%24+whoami;security_analyst_in_training;%24+cat+skills.txt+%7C+grep+%22blue+team%22;%24+building+one+project+at+a+time..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%24+whoami;junior_cybersecurity_professional;%24+cat+focus.txt;blue_team+%7C+security_operations+%7C+threat_detection" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-```bash
-┌──(chepchirchir㉿portfolio)-[~]
-└─$ cat about.md
-```
+<div align="center">
 
-## `> About Me`
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-39FF14?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/FOCUS-BLUE%20TEAM%20%2F%20SOC-39FF14?style=for-the-badge&labelColor=0d1117)
+![Approach](https://img.shields.io/badge/APPROACH-HANDS--ON-39FF14?style=for-the-badge&labelColor=0d1117)
 
-Hi, I'm Chepchirchir.
-
-Junior Cybersecurity Professional focused on building secure systems, identifying vulnerabilities, and understanding how security threats affect modern technologies.
-
-I recently graduated with a background in Information Technology and Cybersecurity, and I have developed hands-on experience through practical security projects, labs, and technical research. My work spans areas such as vulnerability assessment, network security, web application security, security monitoring, Linux, and security automation.
-
-I approach cybersecurity with a practical mindset. I enjoy analyzing systems, investigating security issues, understanding how vulnerabilities are exploited, and developing effective defensive solutions.
-
-I'm currently seeking an entry-level cybersecurity opportunity where I can apply my technical skills, contribute to real security operations, and continue developing as a cybersecurity professional.
-
-**Areas of focus:**
-
-- Cybersecurity and Information Security
-- Security Operations and Monitoring
-- Vulnerability Assessment
-- Network Security
-- Web Application Security
-- Incident Response
-- Linux and Windows Security
-- Python and Security Automation
-
-This GitHub showcases my projects, security research, technical experiments, and continuous development in cybersecurity.
+</div>
 
 <br>
 
-## `> Featured Projects`
+## `> whoami`
 
-```bash
-└─$ ls -la ~/projects/
-```
+Hi, I'm Rahab.
+
+Junior Cybersecurity Professional focused on security operations, vulnerability assessment, threat detection, and building practical security solutions.
+
+I recently graduated with a background in Information Technology and Cybersecurity. I have developed hands-on experience through security projects, labs, technical research, and practical experimentation across network security, web application security, security monitoring, Linux, Python and security automation.
+
+I enjoy analyzing systems, investigating suspicious activity, identifying vulnerabilities, and understanding how security weaknesses affect real systems. My approach is practical and evidence-driven, with a focus on learning through building, testing, and documenting.
+
+I'm currently seeking an entry-level cybersecurity opportunity where I can contribute to security operations, apply my technical skills, and continue growing as a cybersecurity professional.
+
+`Current focus: Security Operations • Blue Team • Threat Detection • Vulnerability Assessment`
+
+<br>
+
+## `> focus`
+
+<div align="center">
+
+| Security Operations | Offensive Security | Engineering |
+|---|---|---|
+| Security Monitoring | Vulnerability Assessment | Python |
+| Log Analysis | Web Application Security | Linux |
+| Incident Response | Security Testing | Automation |
+| Threat Detection | Network Reconnaissance | Git |
+
+</div>
+
+<br>
+
+## `> featured_projects`
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🛡️ SIEM Log Analyzer
-<!-- Add a screenshot when ready: ![SIEM Log Analyzer](./assets/siem-log-analyzer.png) -->
-Python-based log analysis engine with MITRE ATT&CK technique mapping and multi-format reporting.
+### SIEM Log Analyzer
 
-**Stack:** `Python` `Pytest`
-**Highlights:** Console / HTML / JSON / CSV reports · MITRE ATT&CK mapping · 18 passing tests
+Python-based security log analysis engine designed to identify suspicious activity and map detections to MITRE ATT&CK techniques.
 
-`🔗 repo link, add once pushed`
+`Python` `Pytest` `MITRE ATT&CK`
+
+Console, HTML, JSON and CSV reporting  
+MITRE ATT&CK technique mapping  
+18 automated tests
+
+[View Repository →](https://github.com/Chepchirchir12/...)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📊 Security Monitoring Dashboard
-<!-- Add a screenshot when ready: ![Security Monitoring Dashboard](./assets/security-monitoring-dashboard.png) -->
-Flask dashboard that ingests detections from the log analyzer and simulates a live SOC feed.
+### Security Monitoring Dashboard
 
-**Stack:** `Python` `Flask` `Server-Sent Events`
-**Highlights:** Real-time SOC-style feed · Secure file upload validation · 24 passing tests
+Flask-based SOC monitoring dashboard that visualizes detections from the log analysis engine through a simulated live security feed.
 
-`🔗 repo link, add once pushed`
+`Python` `Flask` `SSE`
+
+Real-time security event feed  
+Secure file upload validation  
+24 automated tests
+
+[View Repository →](https://github.com/Chepchirchir12/...)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🔐 Encryption Toolkit
-<!-- Add a screenshot when ready: ![Encryption Toolkit](./assets/encryption-toolkit.png) -->
-*(short description, fill in once you send repo details)*
+### CyberSafe Encryption Toolkit
 
-**Stack:** `Python`
-`🔗 https://github.com/Chepchirchir12/REPO-NAME`
+Security-focused Python toolkit for working with encryption and data protection concepts.
+
+`Python` `Cryptography`
+
+Encryption utilities  
+Security-focused implementation  
+Practical cryptography concepts
+
+[View Repository →](https://github.com/Chepchirchir12/CyberSafe)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎣 Phishing Detection System
-<!-- Add a screenshot when ready: ![Phishing Detection System](./assets/phishing-detection-system.png) -->
-Phishing detection system with Gmail integration and explainable model output. It flags why an email was classified as phishing, not just that it was.
+### Phishing Detection System
 
-**Stack:** `Python` `Gmail API` `ML / Explainability`
-`🔗 https://github.com/Chepchirchir12/REPO-NAME`
+Phishing detection system integrating Gmail data with machine learning and explainable classification, providing reasons behind detection results.
+
+`Python` `Gmail API` `Machine Learning`
+
+Phishing classification  
+Explainable predictions  
+Gmail integration
+
+[View Repository →](https://github.com/Chepchirchir12/phishing-detection-system)
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-## `> Toolbelt`
+## `> toolbelt`
 
 <div align="center">
+
+### Development
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14)
 ![Flask](https://img.shields.io/badge/-Flask-0d1117?style=for-the-badge&logo=flask&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39FF14)
+![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=39FF14)
+
+### Security
+
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39FF14)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39FF14)
 ![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-0d1117?style=for-the-badge&logoColor=39FF14)
+![Nmap](https://img.shields.io/badge/-Nmap-0d1117?style=for-the-badge&logoColor=39FF14)
 
 </div>
 
 <br>
 
-## `> Live Stats`
+## `> currently`
 
-```bash
-└─$ ./fetch_stats.sh --live
+```text
+[+] Building cybersecurity projects
+[+] Developing security automation skills
+[+] Practicing threat detection and investigation
+[+] Strengthening Linux and networking skills
+[+] Exploring SOC and Blue Team workflows
+[+] Looking for an entry-level cybersecurity opportunity
 ```
+
+<br>
+
+## `> security_mindset`
+
+```text
+Observe.
+Investigate.
+Understand.
+Test.
+Document.
+Improve.
+```
+
+<br>
+
+## `> connect`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chepchirchir12&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chepchirchir12&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false" width="30%" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14)](YOUR_PORTFOLIO_URL)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chepchirchir12&theme=github-dark-blue&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border=39FF14" width="80%" />
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chepchirchir12&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=c9d1d9&hide_border=true" width="80%" />
+![Profile Views](https://komarev.com/ghpvc/?username=Chepchirchir12&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 <br>
 
-## `> Connect`
-
-```bash
-└─$ cat contact.txt
-```
-
 <div align="center">
 
-<!-- Replace # with your real links -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](#)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](#)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=todoist&logoColor=39FF14)](#)
-
-<br><br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Chepchirchir12&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:0d1117,100:ff3131&height=3&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=3&section=footer" width="100%"/>
