@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=120&section=header&text=whoami&fontColor=00ff41&fontSize=42&fontAlignY=65&desc=CYBERSECURITY%20%2F%2F%20BLUE%20TEAM%20%2F%2F%20SOC&descAlignY=90&descColor=39ff14&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=160&section=header&text=whoami&fontColor=00ff41&fontSize=42&fontAlignY=45&desc=CYBERSECURITY%20%2F%2F%20BLUE%20TEAM%20%2F%2F%20SOC&descAlignY=70&descColor=39ff14&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%24+whoami;junior_cybersecurity_professional;%24+cat+focus.txt;blue_team+%7C+security_operations+%7C+threat_detection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%24+whoami;junior_cybersecurity_professional;%24+status+--check;blue_team+%7C+security_operations+%7C+threat_detection" alt="Typing SVG" />
 
 </div>
 
