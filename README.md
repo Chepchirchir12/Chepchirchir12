@@ -26,9 +26,9 @@ Junior Cybersecurity enthusiast focused on security operations, vulnerability as
 
 I recently graduated with a background in Information Technology and Cybersecurity. I have developed hands-on experience through security projects, labs, technical research, and practical experimentation across network security, web application security, security monitoring, Linux, Python and security automation.
 
-I enjoy analyzing systems, investigating suspicious activity, identifying vulnerabilities, and understanding how security weaknesses affect real systems. My approach is practical and evidence-driven, with a focus on learning through building, testing, and documenting.
+I enjoy analyzing systems, investigating suspicious activity, identifying vulnerabilities, and understanding how security weaknesses affect real systems. My approach is practical and evidence-driven, with a focus on learning through building, testing, and documenting. More so i have developed ,achine learning skills and i can comfortably create and build models. I have interacted with AI services as well, and integrating them into real world systems.
 
-I'm currently seeking an entry-level cybersecurity opportunity where I can contribute to security operations, apply my technical skills, and continue growing as a cybersecurity professional.
+I'm currently seeking an entry-level opportunity where I can contribute to security operations and other suiting opportunites, apply my technical skills, and continue growing as a cybersecurity professional.
 
 `Current focus: Security Operations • Blue Team • Threat Detection • Vulnerability Assessment`
 
