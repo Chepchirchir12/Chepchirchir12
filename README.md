@@ -182,13 +182,10 @@ Gmail integration
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)]()
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:chepchirchirrahab2@gmail.com)
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Chepchirchir12&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
